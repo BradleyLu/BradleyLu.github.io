@@ -1,3 +1,0 @@
-files/tor-browser-windows-x86_64-portable-14.0.1.exe filter=lfs diff=lfs merge=lfs -text
-files/湖中22-23运动会.mp4 filter=lfs diff=lfs merge=lfs -text
-files/2023-2024学年.mp4 filter=lfs diff=lfs merge=lfs -text
